@@ -1,7 +1,7 @@
 source ~/.bashrc
 export GOPATH=$HOME/go
 GOSRC=$GOPATH/src
-ROOT=$GOSRC/github.com/EtherCS/haechi
+ROOT=$GOSRC/github.com/EtherCS/protohaechi
 
 mkdir -p build
 
